@@ -8,7 +8,7 @@
 <img src="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/dockeryml.jpg" width="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/postgres2.jpg" target="_blank">
-<img src=https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/postgres2.jpg" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/postgres2.jpg" width="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/giri%C5%9F.jpg" target="_blank">
 <img src="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/giri%C5%9F.jpg" width="200" style="max-width:100%;"></a>
