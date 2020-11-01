@@ -1,4 +1,4 @@
-# RESTAPi-Spring Security-PostgreSQL-and-Docker Images
+# RESTAPi-Spring Security-PostgreSQL-and-Docker
 
 <p>
 <a href="https://github.com/muratcelikk/RESTAPI-JPA-SpringSecurity-PostgreSQL-and-Docker/blob/main/img/SpringBoot-Postgres.jpg" target="_blank">
